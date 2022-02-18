@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Awesome-Sports/static/css/main.4d0f332d.css",
+    "main.js": "/React-Awesome-Sports/static/js/main.77c71262.js",
+    "index.html": "/React-Awesome-Sports/index.html",
+    "main.4d0f332d.css.map": "/React-Awesome-Sports/static/css/main.4d0f332d.css.map",
+    "main.77c71262.js.map": "/React-Awesome-Sports/static/js/main.77c71262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0f332d.css",
+    "static/js/main.77c71262.js"
+  ]
+}
